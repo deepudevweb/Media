@@ -1,0 +1,211 @@
+{
+  "users": [
+    {
+      "name": "Taylor Conroy",
+      "id": 1
+    },
+    {
+      "name": "Miss Cornelius Harvey",
+      "id": 2
+    }
+  ],
+  "albums": [
+    {
+      "uderId": 1,
+      "titl": "Handcrafted Bronze Pizza",
+      "id": 24
+    },
+    {
+      "uderId": 1,
+      "titl": "Handmade Rubber Chips",
+      "id": 25
+    },
+    {
+      "uderId": 1,
+      "titl": "Handmade Bronze Hat",
+      "id": 26
+    },
+    {
+      "uderId": 1,
+      "titl": "Awesome Plastic Fish",
+      "id": 30
+    },
+    {
+      "uderId": 1,
+      "titl": "Electronic Metal Mouse",
+      "id": 34
+    },
+    {
+      "uderId": 1,
+      "titl": "Small Granite Computer",
+      "id": 36
+    },
+    {
+      "uderId": 1,
+      "titl": "Recycled Concrete Bacon",
+      "id": 37
+    },
+    {
+      "uderId": 1,
+      "titl": "Elegant Bronze Mouse",
+      "id": 38
+    },
+    {
+      "uderId": 1,
+      "titl": "Generic Plastic Fish",
+      "id": 39
+    },
+    {
+      "uderId": 1,
+      "titl": "Refined Plastic Sausages",
+      "id": 40
+    },
+    {
+      "uderId": 1,
+      "titl": "Bespoke Rubber Shirt",
+      "id": 41
+    },
+    {
+      "uderId": 1,
+      "titl": "Intelligent Bronze Soap",
+      "id": 42
+    },
+    {
+      "uderId": 1,
+      "titl": "Handcrafted Plastic Shirt",
+      "id": 43
+    },
+    {
+      "uderId": 1,
+      "titl": "Licensed Granite Ball",
+      "id": 44
+    },
+    {
+      "uderId": 3,
+      "titl": "Oriental Granite Tuna",
+      "id": 45
+    },
+    {
+      "uderId": 3,
+      "titl": "Unbranded Metal Sausages",
+      "id": 46
+    },
+    {
+      "uderId": 4,
+      "titl": "Generic Rubber Gloves",
+      "id": 47
+    },
+    {
+      "uderId": 5,
+      "titl": "Intelligent Steel Shoes",
+      "id": 48
+    },
+    {
+      "userId": 1,
+      "title": "Luxurious Concrete Keyboard",
+      "id": 49
+    },
+    {
+      "userId": 1,
+      "title": "Incredible Steel Gloves",
+      "id": 50
+    },
+    {
+      "userId": 1,
+      "title": "Luxurious Granite Pants",
+      "id": 52
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Steel Pizza",
+      "id": 53
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 49,
+      "url": "https://loremflickr.com/150/150/abstract?lock=27419",
+      "id": 1
+    },
+    {
+      "albumId": 49,
+      "url": "https://loremflickr.com/150/150/abstract?lock=27594",
+      "id": 2
+    },
+    {
+      "albumId": 49,
+      "url": "https://loremflickr.com/150/150/abstract?lock=50211",
+      "id": 4
+    },
+    {
+      "albumId": 49,
+      "url": "https://loremflickr.com/150/150/abstract?lock=25286",
+      "id": 5
+    },
+    {
+      "albumId": 49,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6295",
+      "id": 6
+    },
+    {
+      "albumId": 49,
+      "url": "https://loremflickr.com/150/150/abstract?lock=67838",
+      "id": 7
+    },
+    {
+      "albumId": 49,
+      "url": "https://loremflickr.com/150/150/abstract?lock=36309",
+      "id": 8
+    },
+    {
+      "albumId": 49,
+      "url": "https://loremflickr.com/150/150/abstract?lock=15590",
+      "id": 9
+    },
+    {
+      "albumId": 49,
+      "url": "https://loremflickr.com/150/150/abstract?lock=92679",
+      "id": 10
+    },
+    {
+      "albumId": 50,
+      "url": "https://loremflickr.com/150/150/abstract?lock=96612",
+      "id": 11
+    },
+    {
+      "albumId": 50,
+      "url": "https://loremflickr.com/150/150/abstract?lock=48552",
+      "id": 12
+    },
+    {
+      "albumId": 50,
+      "url": "https://loremflickr.com/150/150/abstract?lock=38057",
+      "id": 13
+    },
+    {
+      "albumId": 49,
+      "url": "https://loremflickr.com/150/150/abstract?lock=44970",
+      "id": 14
+    },
+    {
+      "albumId": 49,
+      "url": "https://loremflickr.com/150/150/abstract?lock=70741",
+      "id": 15
+    },
+    {
+      "albumId": 49,
+      "url": "https://loremflickr.com/150/150/abstract?lock=61046",
+      "id": 16
+    },
+    {
+      "albumId": 49,
+      "url": "https://loremflickr.com/150/150/abstract?lock=43968",
+      "id": 17
+    },
+    {
+      "albumId": 49,
+      "url": "https://loremflickr.com/150/150/abstract?lock=92620",
+      "id": 18
+    }
+  ]
+}
